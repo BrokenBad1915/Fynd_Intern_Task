@@ -1,0 +1,58 @@
+[
+    {
+        "timestamp": "2025-12-07 14:42:01",
+        "rating": 3,
+        "review": "Good",
+        "ai_response": "Thank you for your feedback.",
+        "ai_summary": "Error processing",
+        "ai_action": "Check logs"
+    },
+    {
+        "timestamp": "2025-12-07 14:43:20",
+        "rating": 3,
+        "review": "satisfactory",
+        "ai_response": "Thank you for sharing your feedback. We appreciate you taking the time to let us know about your satisfactory experience.",
+        "ai_summary": "Average experience, potential for improvement.",
+        "ai_action": "Follow up with user to identify specific improvement areas."
+    },
+    {
+        "timestamp": "2025-12-07 14:49:41",
+        "rating": 2,
+        "review": "The overall performance has been satisfactory. The assigned tasks were completed within the expected timelines, and the quality of work met the required standards. However, there is still room for improvement in attention to detail and proactive communication. Continued consistency and timely updates will help in maintaining smooth workflow operations.",
+        "ai_response": "Thank you for your valuable feedback regarding your experience. We understand your concerns about attention to detail and proactive communication, and we appreciate you bringing these to our attention.",
+        "ai_summary": "",
+        "ai_action": "Admin to review and train staff on attention to detail and proactive communication protocols."
+    },
+    {
+        "timestamp": "2025-12-07 14:51:31",
+        "rating": 4,
+        "review": "Outstanding performance throughout the review period. Your dedication, attention to detail, and proactive approach have consistently exceeded expectations. You demonstrate excellent ownership of tasks, maintain clear communication, and deliver high-quality work every time. Your positive attitude and reliability make a significant impact on the overall workflow. Keep up the exceptional work\u2014your efforts are truly appreciated.",
+        "ai_response": "Thank you so much for your incredibly kind words and 4-star rating! We are absolutely delighted to hear about your outstanding experience and truly appreciate your detailed feedback.",
+        "ai_summary": "Outstanding performance, dedication, exceeds expectations.",
+        "ai_action": "Share this positive feedback with the relevant team/individual and consider formal recognition for their exceptional performance."
+    },
+    {
+        "timestamp": "2025-12-07 14:56:22",
+        "rating": 5,
+        "review": "Excellent work\u2014your consistency, dedication, and attention to detail are outstanding. You deliver high-quality results every time and your positive attitude makes a noticeable impact. Truly exceptional performance.",
+        "ai_response": "Thank you so much for your incredibly kind words and for taking the time to share your positive experience! We are delighted to hear such wonderful feedback about our performance and dedication.",
+        "ai_summary": "Exceptional performance, consistent high quality.",
+        "ai_action": "Communicate positive feedback to the team/individual for recognition and continued excellence."
+    },
+    {
+        "timestamp": "2025-12-07 22:05:34",
+        "rating": 5,
+        "review": "It was such an amazing experience. I would refer this to everyone I know.",
+        "ai_response": "That's wonderful to hear! We are so glad you had such an amazing experience and appreciate you sharing your positive feedback.",
+        "ai_summary": "Exceptional positive experience, highly recommended.",
+        "ai_action": "Acknowledge and share positive feedback internally."
+    },
+    {
+        "timestamp": "2025-12-07 22:19:05",
+        "rating": 3,
+        "review": "It was okay, neither too bad nor too good. Though it can be improved on various aspects.",
+        "ai_response": "Thank you for sharing your feedback. We understand your experience was neither bad nor good, and we appreciate you pointing out areas for improvement.",
+        "ai_summary": "Overall average experience, with unspecified areas needing improvement.",
+        "ai_action": "Initiate an internal audit to identify and address general improvement areas."
+    }
+]
